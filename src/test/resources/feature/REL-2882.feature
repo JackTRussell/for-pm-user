@@ -8,6 +8,7 @@ And I want to see changes in GIT
 Scenario: 
 Given I loaded feature from Jira to Relime
 And I want to see changes in GIT
+And ghjkl;'\
 
 @SC_155632
 Scenario: 
