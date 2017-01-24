@@ -6,13 +6,6 @@ Background:
 
 Given new changes
 
-@SC_155556 @second_scenario_tag
-Scenario: Second scenario
-Some description
-Given I created scenario
-Then I see it in Relime
-And I add some changes
-
 @SC_155551 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
@@ -65,6 +58,13 @@ Examples:
 |mickey|3|35000.0|
 |stive|4|45000.0|
 
+
+@SC_155556 @second_scenario_tag
+Scenario: Second scenario
+Some description
+Given I created scenario
+Then I see it in Relime
+And I add some changes
 
 @SC_155557 @third_scenario_tag
 Scenario: Third scenario
