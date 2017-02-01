@@ -10,7 +10,7 @@ Given one
 And two
 When something
 And some changes
-And testеуые
+And test
 
 @SC_176543
 Scenario: 
