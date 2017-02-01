@@ -6,8 +6,8 @@ And I want to see changes in GIT
 
 @SC_155631
 Scenario: 
-And I want to see changes in GIT
 Given I loaded feature from Jira to Relime
+And I want to see changes in GIT
 And new changes
 
 @SC_155632
